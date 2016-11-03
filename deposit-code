@@ -1,0 +1,3 @@
+echo "Please Enter amount"
+read rs
+echo "YOU Have Enter amount Rs:$rs"
