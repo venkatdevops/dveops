@@ -1,0 +1,3 @@
+echo "please type user id"
+read name
+echo "Hi welcome $name"
